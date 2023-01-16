@@ -1,5 +1,13 @@
+body{
+    margin: 0;
+}
+
 .bgimg{
     background-image: url(image/pattern.png);
     background-color: #4EA0FF;
     height: 150px;
+}
+
+.descrizione{
+    font-size: 450%;
 }
