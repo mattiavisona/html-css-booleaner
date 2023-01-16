@@ -1,13 +1,21 @@
 body{
     margin: 0;
 }
-
-.bgimg{
+.bg{
     background-image: url(image/pattern.png);
     background-color: #4EA0FF;
     height: 150px;
+    margin: 0;
+}
+
+.title{
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: auto;
+    text-align: center;
 }
 
 .descrizione{
     font-size: 450%;
+    margin-bottom: -0.5cm;
 }
