@@ -19,3 +19,13 @@ body{
     font-size: 450%;
     margin-bottom: -0.5cm;
 }
+.date{
+    margin-top: -0.4cm;
+}
+.first_description{
+    margin-bottom: -0.4cm;
+}
+.text{
+    margin-top: 80px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
