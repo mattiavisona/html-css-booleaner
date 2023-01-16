@@ -7,6 +7,9 @@ body{
     height: 150px;
     margin: 0;
 }
+.colour{
+    color: #46B7E9;
+}
 
 .title{
     font-size: 50px;
@@ -22,10 +25,40 @@ body{
 .date{
     margin-top: -0.4cm;
 }
+.img_1{
+    width: 1000px;
+    height: auto;
+    margin-left: 15px;
+}
+.img_2{
+    width: 1000px;
+    height: 667px;
+}
+
 .first_description{
     margin-bottom: -0.4cm;
 }
 .text{
     margin-top: 80px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.evidence{
+    background-color: yellow;
+}
+.space{
+    margin-left: -0.6cm;
+}
+th{
+    background-color: #20A9E5;
+    height: 20px;
+    
+}
+.prova_1{
+    width: 1000px;
+    height: auto;
+    margin-left: 15px;
+}
+.prova_2{
+    width: 1000px;
+    height: 667px;
 }
