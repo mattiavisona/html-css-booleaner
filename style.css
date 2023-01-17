@@ -39,20 +39,32 @@ section{
     margin-bottom: 22px;
 }
 
-table table{
+#table table{
     border-spacing: 0;
 }
 
-table thead{
-    background-color: #20A9E5;
+#table thead{
+    background-color: #20a8e4;
     color: white;
 }
 
-table #table .back-blue{
+#table table .back-blue{
     background-color: #b0e4f1;
 }
 
-table #half-widht{
+#table #half-widht{
     width: 50%;
 }
 
+footer .footer-image{
+    width: 280px;
+    height: 168px;
+}
+
+footer #footer-image-1{
+    background-image: url(image/monitor.jpg);
+}
+
+footer #footer-image-2{
+    background-image: url(image/graph.jpg);
+}
