@@ -1,64 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 body{
     margin: 0;
 }
-.bg{
+
+nav{
     background-image: url(image/pattern.png);
     background-color: #4EA0FF;
-    height: 150px;
-    margin: 0;
-}
-.colour{
-    color: #46B7E9;
+    background-size: auto 200%;
+
+    padding-top: 40px;
+    padding-bottom: 10px;
+    padding-left: 8px;
 }
 
-.title{
-    font-size: 50px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    margin-top: auto;
-    text-align: center;
+nav img{
+    height: 40px;
 }
 
-.descrizione{
-    font-size: 450%;
-    margin-bottom: -0.5cm;
-}
-.date{
-    margin-top: -0.4cm;
-}
-.img_1{
-    width: 1000px;
-    height: auto;
-    margin-left: 15px;
-}
-.img_2{
-    width: 1000px;
-    height: 667px;
+main{
+    padding-left: 8px;
+    padding-right: 8px;
 }
 
-.first_description{
-    margin-bottom: -0.4cm;
+.grey-text{
+    color: grey;
 }
-.text{
-    margin-top: 80px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+#header-date{
+    font-size: 12px;
 }
-.evidence{
-    background-color: yellow;
+
+section{
+    margin-bottom: 22px;
 }
-.space{
-    margin-left: -0.6cm;
+
+table table{
+    border-spacing: 0;
 }
-th{
+
+table thead{
     background-color: #20A9E5;
-    height: 20px;
-    
+    color: white;
 }
-.prova_1{
-    width: 1000px;
-    height: auto;
-    margin-left: 15px;
+
+table #table .back-blue{
+    background-color: #b0e4f1;
 }
-.prova_2{
-    width: 1000px;
-    height: 667px;
+
+table #half-widht{
+    width: 50%;
 }
+
